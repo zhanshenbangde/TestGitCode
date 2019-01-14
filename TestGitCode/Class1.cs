@@ -7,7 +7,7 @@ namespace TestGitCode
 
         public void Test()
         {
-
+            int a = 1;
         }
     }
 }
