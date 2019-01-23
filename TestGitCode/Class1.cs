@@ -8,7 +8,7 @@ namespace TestGitCode
         public void Test()
         {
             string fenzhi = "testlocal2";
-            int a = 2;
+            int b = 2;
         }
     }
 }
